@@ -10,10 +10,10 @@
 ## How it works
 - Launch the Streamlit app.
 - Click the "Start Camera" checkbox to begin face detection.
-!(front)[pic/screenn1.png]
+- ![front](pic/screenn1.png)
 - The webcam feed will display with the detected faces highlighted using bounding boxes.
 
-- !(front)[pic/screenn2.png]
+- ![front](pic/screenn2.png)
 - Uncheck "Start Camera" to stop the detection
   ## Requirements
 - Python 3.7+
